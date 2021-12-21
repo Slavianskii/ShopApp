@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_good"
+        android:title="Add good" />
+    <item
+        android:id="@+id/remove_good"
+        android:title="Remove good" />
+    <item
+        android:id="@+id/orders"
+        android:title="See orders in progress" />
+</menu>
