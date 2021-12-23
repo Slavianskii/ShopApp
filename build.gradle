@@ -15,3 +15,11 @@ buildscript {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+//dependencies {
+//    implementation 'org.aerysoft.miniclient:miniclient-android:0.8.3'
+//}
+
+//repositories {
+//    mavenCentral()
+//}

@@ -48,6 +48,7 @@ public class CategoryActivity extends AppCompatActivity {
     }
 
     private void setInitialData() {
+
         items.add(new Item("Apples", 65, R.drawable.apples));
         items.add(new Item("Bananas", 55, R.drawable.bananas));
 

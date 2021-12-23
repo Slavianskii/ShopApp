@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void setInitialData() {
-        String[] a = new String[]{"tmp1", "tmp2", "tmp3", "tmp4"};
+        String[] a = new String[]{"Food", "Sport", "Clothes", "Furniture"};
         for (String i:
              a) {
             categories.add(i);
